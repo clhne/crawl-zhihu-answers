@@ -4,3 +4,9 @@ This is a simple python project about how to use minimal codes, crawling all ava
 ## 知乎回答数据爬取
 通过分析Ajax请求，构造动态渲染页面的request，返回数据并生成csv。给定问题代码（uid），可见即可爬，有效期验证：2022-12-07
 后续数据分析详见：https://zhuanlan.zhihu.com/p/574153124
+
+
+## Ref
+1. https://blog.csdn.net/shjsfx/article/details/106006255
+2. https://googlechromelabs.github.io/chrome-for-testing/#stable
+3. https://cloud.tencent.com/developer/article/1404558     
